@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Duarte O.Carmo
+bio: I like tech. 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Technology, news, and other stuf.
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,10 +14,10 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.dropbox.com/s/iz4b2kg8mjqnjqd/CV_Duarte_JAN_2018.pdf?dl=0
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: http://duarteocarmo.ml
+
 
 permalink: /:title/
 
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: duarteocarmo
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: duarteocarmo
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: duarteocarmo
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: duarteocarmo
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: duarteocarmo@gmail.com
 
 authors:
     johndoe:
