@@ -1,6 +1,6 @@
 # main text of home
 name: Duarte O.Carmo
-bio: I like tech. 
+bio: – I know I’m not going that way!
 
 # twitter summary info
 description: Technology, news, and other stuf.
@@ -29,9 +29,13 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
+#disqus:
+#  shortname: mydisqus # enter this from your disqus account
+#  categories: [blog, project] # only show disqus for posts that have these categories
+
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname: duartecarmo # enter this from your disqus account
+  categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -53,12 +57,12 @@ medium: duarteocarmo
 email: duarteocarmo@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    duarteoc:
+        name: Duarte O.Carmo
+        bio: 
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: duarteocarmo
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
