@@ -1,0 +1,15 @@
+---
+title: "Master Thesis: Measuring the uniqueness of technological capabilities."
+layout: post
+date: 2018-06-23 22:10
+tag: 
+image: 
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "My master thesis"
+category: project
+author: johndoe
+externalLink: https://technological-capabilities.eu
+
+---

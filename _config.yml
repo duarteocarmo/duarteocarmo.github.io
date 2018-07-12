@@ -34,8 +34,8 @@ permalink: /:title/
 #  categories: [blog, project] # only show disqus for posts that have these categories
 
 disqus:
-  shortname: duarte_o_carmo # enter this from your disqus account
-  categories: [blog] # only show disqus for posts that have these categories
+  shortname:  # enter this from your disqus account
+  categories:  # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -59,16 +59,11 @@ email: duarteocarmo@gmail.com
 authors:
     duarteoc:
         name: Duarte O.Carmo
-        bio: 
+        bio: The owner of this site.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: duarteocarmo
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -99,7 +94,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false 
 
 # do you want some animations?
 animation: true
