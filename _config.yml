@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://duarteocarmo.ml/assets/CV_Duarte_JAN_2018.pdf
+resume-external: false
+resume-url: assets/CV_Duarte_JAN_2018.pdf
 
 url: https://duarteocarmo.ml
 
@@ -105,6 +105,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-redirect-from
 
 jekyll-mentions:
     base_url: https://github.com
