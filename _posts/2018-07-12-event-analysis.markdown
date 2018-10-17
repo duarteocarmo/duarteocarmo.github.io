@@ -10,6 +10,6 @@ hidden: true # don't count this post in blog pagination
 description: "A project for DTU."
 category: project
 author: johndoe
-externalLink: https://duarteocarmo.ml/Project_Page_SG/
+externalLink: https://duarteocarmo.com/Project_Page_SG/
 
 ---

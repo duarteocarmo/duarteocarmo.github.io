@@ -1,1 +1,1 @@
-[Visit the website](https://duarteocarmo.ml)
+[Visit the website](https://duarteocarmo.com)

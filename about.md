@@ -15,8 +15,8 @@ layout: page
 
 <p>I have lived in over 4 countries (Portugal, Denmark, China, USA), and I’m fluent in 4 languages (Portuguese, English, French, and Spanish). I’ve visited over 70 countries and love photography and design. </p>
 
-<p>The purpose of this website is to be the central hub of everything I do online. Here you can download my <a href="https://duarteocarmo.ml/assets/CV_Duarte_JAN_2018.pdf">resume</a>, learn a bit about my <a href="https://duarteocarmo.ml/projects">projects</a>, or just
-<a href="https://duarteocarmo.ml/blog">read about something that is hopefully interesting</a>. Don't hesitate to <a href="mailto:duarteocarmo@gmail.com">email</a> me!</p>
+<p>The purpose of this website is to be the central hub of everything I do online. Here you can download my <a href="https://duarteocarmo.com/assets/CV_Duarte_JAN_2018.pdf">resume</a>, learn a bit about my <a href="https://duarteocarmo.com/projects">projects</a>, or just
+<a href="https://duarteocarmo.com/blog">read about something that is hopefully interesting</a>. Don't hesitate to <a href="mailto:duarteocarmo@gmail.com">email</a> me!</p>
 
 
 
