@@ -1,0 +1,6 @@
+---
+layout: externalpost
+title:  "Msc. Thesis: The uniqueness of technological capabilities"
+date:   2018-6-23 20:43:05 +0000
+external_url: https://technological-capabilities.eu/
+---

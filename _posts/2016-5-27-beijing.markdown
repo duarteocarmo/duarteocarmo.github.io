@@ -1,0 +1,6 @@
+---
+layout: externalpost
+title:  "Beijing and qr codes"
+date:   2016-05-27 20:43:05 +0000
+external_url: https://medium.com/@DuarteOCarmo/the-beijing-series-using-qr-codes-the-right-way-e356c98cae1f
+---
