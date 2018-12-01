@@ -15,12 +15,26 @@
 # in the templates via {{ site.myvariable }}.
 title: duarte o.carmo
 email: me@duarteocarmo.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: My personal website
+long_description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Duarte.<br>
   I'm a product manager at <a target="_blank" href="https://jabra.com">Jabra</a>.<br>
   Previously at Bliss Applications, WYGroup. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://duarteocarmo.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# SEO
+logo: /assets/img/doc-01.png
+social:
+  name: Duarte O.Carmo
+  links:
+    - https://twitter.com/duarteocarmo
+    - https://www.linkedin.com/in/duarteocarmo
+    - https://github.com/duarteocarmo
+
+
+
+# social media links
 twitter_username: duarteocarmo
 github_username:  duarteocarmo
 linkedin_username: duarteocarmo
@@ -34,6 +48,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
