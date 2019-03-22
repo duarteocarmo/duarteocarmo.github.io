@@ -4,9 +4,9 @@ title: about
 permalink: /about/
 header: about me
 ---
-My name is Duarte Carmo and I'm originally from ☀️Lisbon, Portugal and I currently live in ☔Copenhagen, Denmark. 
+My name is Duarte Carmo and I'm originally from Lisbon ☀️ and I currently live in Copenhagen ☔. 
 
-I'm a product manager at [Jabra](https://jabra.com) where I help build the best 🎧headphones in the world and also build 💻software tools to help the company.
+I'm a product manager at [Jabra](https://jabra.com) where I help build the best headphones in the world and also build software tools to help the company.
 
 I have studied in the [Superior Technical Institute of Lisbon](https://tecnico.ulisboa.pt/en/), in the [Beijing Institute of Technology](http://english.bit.edu.cn/) and in the [Technical University of Denmark](https://www.dtu.dk/english). I've worked for the [WYGroup](https://www.wygroup.net/), [Bliss Applications](https://www.blissapplications.com/) and [OnLiquid](https://onliquid.com/). 
 
