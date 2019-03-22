@@ -137,7 +137,7 @@ So [here's the result](https://devtuga.pt) after some long hours of frustraring 
 
 <center>
 <img src="/assets/img/devtuga/devtuga.png" alt="Hackernews" style="width:120%">
-  <figcaption>I called it: <a herf="https://devtuga.pt">devtuga.pt</a> </figcaption>
+  <figcaption>I called it: <a href="https://devtuga.pt">devtuga.pt</a> </figcaption>
 </center>
 
 
