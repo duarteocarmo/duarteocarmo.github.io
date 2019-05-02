@@ -1,5 +1,5 @@
 ---
-layout: externalpost
+layout: post
 title:  "A “non-nerd” introduction to podcasts"
 date:   2016-05-12 20:43:05 +0000
 ---
