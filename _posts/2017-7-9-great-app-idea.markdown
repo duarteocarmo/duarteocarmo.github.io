@@ -21,7 +21,7 @@ Even though designers and developers might look like they live on separate plane
 But where do you even begin to clearly define your idea?
 Below, are some starting points that can help you shape your idea to start having the conversations that can make your idea a reality.
 
-**Really get to know the idea. **If the vision you want to communicate isn’t totally clear to you, it’s going to be extremely hard to explain it to anyone else. Can you “elevator” pitch it? The best way to clearly define it is to do exactly as an engineer would, break it down into pieces.
+**Really get to know the idea.** If the vision you want to communicate isn’t totally clear to you, it’s going to be extremely hard to explain it to anyone else. Can you “elevator” pitch it? The best way to clearly define it is to do exactly as an engineer would, break it down into pieces.
 
 * What is the story you are trying to convey?
 
@@ -35,7 +35,7 @@ Below, are some starting points that can help you shape your idea to start havin
 
 Having the answer to these questions in your head is a great start and will help you prepare for your meeting. But don’t stop now, how about going a little bit deeper into what you actually want?
 
-**Do some research. **You are pitching a complex product and the more knowledge you have about it, the better. How about doing some pre-meeting research? It’s impressive how a little bit of research can get some technical stuff out of the way (yes, even without a degree in Computer Science).
+**Do some research.** You are pitching a complex product and the more knowledge you have about it, the better. How about doing some pre-meeting research? It’s impressive how a little bit of research can get some technical stuff out of the way (yes, even without a degree in Computer Science).
 
 * Which platforms do you want your product to be on? Smartphones? Tablets? Computers? All of them? *Identifying these in advance will not only help shape what exactly you want but also help developers in understanding where you want to be.*
 
@@ -45,7 +45,7 @@ Having the answer to these questions in your head is a great start and will help
 
 * What features do you see in the competition that you want to include? What are others doing in technological terms? This is what developers and designers call benchmarking.
 
-**Map your idea.**Once you have all of the answers to the questions above, there’s still more to do. Ideas and concepts are often confusing. One tool you (and whomever you are speaking to) might find useful are mind maps. Mind maps are used to turn something mental into something visual.
+**Map your idea.** Once you have all of the answers to the questions above, there’s still more to do. Ideas and concepts are often confusing. One tool you (and whomever you are speaking to) might find useful are mind maps. Mind maps are used to turn something mental into something visual.
 
 ![](https://cdn-images-1.medium.com/max/2000/0*JIO4wRg2GGtrhZFA.)
 
@@ -63,7 +63,7 @@ Sure, you can use a piece of paper or a whiteboard once you are at the meeting, 
 
 * [Bubbl](https://bubbl.us/)
 
-**Make a prototype. **If you have come this far, why not get a little technical before the big meeting? Designers often use something called wireframes and mockups to base themselves, or to start a project. These are basically screens of your idea/product, linked together by arrows, to convey an idea of the product.
+**Make a prototype.** If you have come this far, why not get a little technical before the big meeting? Designers often use something called wireframes and mockups to base themselves, or to start a project. These are basically screens of your idea/product, linked together by arrows, to convey an idea of the product.
 
 ![](https://cdn-images-1.medium.com/max/2048/1*dslNoOm6THf8dARUpFVdsg.jpeg)
 
@@ -81,7 +81,7 @@ To help you out, here are some tools that you can use:
 
 Take advantage of your benchmark and competitor’s product as a starting point.
 
-**Adapt to your audience. **When you are excited about an idea, you usually present it as something big and complex. On the other hand, developers are used to thinking of concepts and products like LEGO. Brick by brick. And if you are putting yourself in their shoes, that is exactly what you should do: break it apart.
+**Adapt to your audience.** When you are excited about an idea, you usually present it as something big and complex. On the other hand, developers are used to thinking of concepts and products like LEGO. Brick by brick. And if you are putting yourself in their shoes, that is exactly what you should do: break it apart.
 
 When meeting developers, they will start taking apart your idea. So why not take advantage of everything you have done thus far and start doing it yourself?
 
@@ -93,7 +93,7 @@ When meeting developers, they will start taking apart your idea. So why not take
 
 * What blocks are critical for your product to take shape?
 
-**Bottom Line.**The mind maps, mockups, and answers from the discovery questions above will help you to build, block by block. Completing the steps outlined above will not only make your idea easier to communicate but can potentially save you time, time that can be extremely valuable in the long run.
+**Bottom Line.** The mind maps, mockups, and answers from the discovery questions above will help you to build, block by block. Completing the steps outlined above will not only make your idea easier to communicate but can potentially save you time, time that can be extremely valuable in the long run.
 
 Developers and designers are used to working with business goals and ideas and making them into a reality. However, the pre-meeting planning depends on how far you are willing to go to have your idea outlined. The effort put into clearly defining your scope of work and refining your idea will help make your vision easier to understand and accelerate the process of development.
 
