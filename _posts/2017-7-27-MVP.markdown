@@ -3,7 +3,6 @@ layout: externalpost
 title:  "4 Reasons why you need an MVP"
 date:   2017-07-27 20:43:05 +0000
 ---
-# 4 Reasons why you need an MVP
 
 If you’re into sports, you probably know that MVP stands for Most Valuable Player. But in the last couple of years, in the context of business and specifically product development, MVP stands for Minimum Viable Product. What does that mean?
 

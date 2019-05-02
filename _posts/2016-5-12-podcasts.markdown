@@ -4,10 +4,6 @@ title:  "A “non-nerd” introduction to podcasts"
 date:   2016-05-12 20:43:05 +0000
 ---
 
-# A “non-nerd” introduction to PODCASTS.
-
-
-
 So you want to start listenning to podcasts? Alright here are some tips to get you started. Let me start by saying..
 
 Podcasts are a weird topic. Some people love them, some people hate them. From what I have noticed , younger audiences aren’t exactly “Podcast Lovers”. Most tech users prefer to watch a video our scroll a feed instead of hearing someone talk about a particular topic.

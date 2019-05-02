@@ -4,10 +4,6 @@ title:  "So you have a great app idea. Now what?"
 date:   2017-07-09 20:43:05 +0000
 ---
 
-
-# So you have a great app idea. Now what?
-
-
 Some people know exactly what they want when it comes to software but most of us don’t. [In a previous article](http://bit.ly/2tUUNRE), we mentioned that one way to avoid a common pitfall when creating an app was by having a clearly defined scope of work.
 
 It might sound fine to walk into an office with a half-baked idea, nobody has it all figured out. However, walking into an office with an idea of an idea is the first step in a wrong direction.Poorly worked ideas will end up wasting time to develop and time is money.

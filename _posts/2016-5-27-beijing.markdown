@@ -4,8 +4,6 @@ title:  "Beijing and qr codes"
 date:   2016-05-27 20:43:05 +0000
 ---
 
-# The Beijing Series: USING QR CODES THE RIGHT WAY
-
 A QR (Quick Response) code is a tool by which we can transfer data from a place to another. They were first developed in Japanese factories in order to quickly identify pieces or machines. Particularly useful in the confusing data driven world of Japanese car manufacturers.
 
 Basically, a QR code stores information, such as an URL, and can be decoded by a device (usually, a smartphone!). It’s actually pretty easy to generate a QR code for what ever you like! *Just visit [this](http://www.qrstuff.com/) web page, insert a URL and get a scannable code!*
