@@ -6,5 +6,5 @@ Hosted on GitHub, and made with Jekyll.
 
 
 
-[Visit](https://duarteocarmo.com) 
+[Visit it here](https://duarteocarmo.com) 
 
