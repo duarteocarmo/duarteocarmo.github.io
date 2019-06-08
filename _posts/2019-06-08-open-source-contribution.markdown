@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contributing to JupyterLab"
+title: "Contributing to JupyterLab 🧪"
 categories: misc
 ---
 
