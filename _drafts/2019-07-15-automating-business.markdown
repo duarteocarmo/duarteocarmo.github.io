@@ -93,6 +93,13 @@ You will see a new file named `sales_january.html` was created. HTML files are b
 
 But lets us say that this sales report comes in every month, how can we automatically run this notebook with any excel file in the same format? 
 
+## Automating report generation using papermill
+
+[Papermill](https://papermill.readthedocs.io/en/latest/) is a handy tool that allows us to "parameterize and execute" Jupyter Notebooks. This basically means that papermill allows you execute the same jupyter notebook, with different variable defined outside its context. 
+
+Let us say we want to generate the same report as above, but with another excel file: `sales_february.xlsx`.
+
+
 
 
 
