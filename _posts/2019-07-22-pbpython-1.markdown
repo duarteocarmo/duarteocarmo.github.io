@@ -1,6 +1,0 @@
----
-layout: externalpost
-title:  "Guest Post on Pbpython: Automated Report Generation with Papermill - Part 1"
-date:   2019-7-22 20:43:05 +0000
-external_url: https://pbpython.com/papermil-rclone-report-1.html
----
