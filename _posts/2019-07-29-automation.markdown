@@ -1,5 +1,4 @@
 ---
-layout: externalpost
 title:  "Guest Posts on Pbpython: Report Automation"
 date:   2019-7-29 20:43:05 +0000
 categories: misc
