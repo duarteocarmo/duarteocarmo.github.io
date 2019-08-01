@@ -2,6 +2,7 @@
 title:  "Report Automation using Python, Papermill and Rclone"
 date:   2019-7-29 20:43:05 +0000
 categories: misc
+layout: post
 ---
 
 During the month of July I wrote two blog posts for the popular [Practical Business Python blog](https://pbpython.com/). The Practical Business Python blog is one of the top 20 most popular blogs on python with about [200.000 visits](https://www.similarweb.com/website/pbpython.com#overview) per month. 
