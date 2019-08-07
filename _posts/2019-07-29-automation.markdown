@@ -13,6 +13,11 @@ Here are the links to both parts:
 - [Part 1: Concept presentation](https://pbpython.com/papermil-rclone-report-1.html)
 - [Part 2: Architecture and final solution](https://pbpython.com/papermil-rclone-report-2.html)
 
+These posts were featured in the [Python Bytes podcast](https://pythonbytes.fm/episodes/show/142/there-s-a-bandit-in-the-python-space) (jump to 12:39):
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/662152787&color=%232a7ae2&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+</iframe>
+
 The architecture and final script follow:
 <center>
 <img src="/assets/img/automation/architecture.png" alt="JupyterLab" style="width:80%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
