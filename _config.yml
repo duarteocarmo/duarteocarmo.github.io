@@ -18,7 +18,7 @@ email: me@duarteocarmo.com
 description: My personal website
 long_description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Duarte.<br>
-  I'm a product manager at <a target="_blank" href="https://jabra.com">Jabra</a>.<br>
+  I'm a digital consultant at <a target="_blank" href="https://jabra.com">Jabra</a>.<br>
   Previously at Bliss Applications, WYGroup. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://duarteocarmo.com" # the base hostname & protocol for your site, e.g. http://example.com
