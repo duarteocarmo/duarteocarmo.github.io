@@ -26,6 +26,8 @@ The architecture of the automation solution and final script follow:
 
 <script src="https://gist.github.com/duarteocarmo/e52727365f50167bc0b8f997d6321937.js"></script>
 
+<script src="https://gist.github.com/duarteocarmo/e52727365f50167bc0b8f997d6321937.js"></script>
+
 ```python
 import subprocess
 import sys
