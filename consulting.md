@@ -8,12 +8,13 @@ I would love to help you build your next project! Here are some of my areas of e
 
 **Business:**
 - Business plan development 
-- Minimum Viable Product Strategy and Development
-- Data analysis and market research
+- Minimum Viable Product development
+- Data Analysis 
+- Market Research
 
 **Data:**
-- Data analysis
-- Machine learning
+- Data science and Big Data Analysis
+- Machine Learning
 
 **Technology:**
 - Wireframming and prototyping of mobile applications and websites
