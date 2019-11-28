@@ -28,7 +28,9 @@ That's where the name of the paper comes from, we are basically studying how tec
 
 This paper was a collaboration between my thesis supervisor [Pedro Parraguez](https://www.parraguezr.net/), [Stanko Škec](https://www.dtu.dk/english/service/phonebook/person?id=122454&tab=2&qt=dtupublicationquery) and [Anja Maier](https://www.dtu.dk/english/service/phonebook/person?id=59683&tab=1).
 
-All from the Management Department of the Technical University of Denmark - DTU. 
+Oh, and me :) 
+
+All from the [Management Department](https://www.man.dtu.dk/) of the [Technical University of Denmark](https://dtu.dk/english).
 
 ### Where can I find it? 
 
