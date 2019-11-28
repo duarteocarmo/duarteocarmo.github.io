@@ -1,0 +1,11 @@
+---
+title:  "Quantifying technological change as a combinatorial process"
+date:   2019-11-28 08:00:00 +0000
+categories: misc
+external_url: https://www.sciencedirect.com/science/article/pii/S004016251930006X#!
+---
+
+<!--
+external_url: assets/docs/quantifying-tech-change.pdf
+--!>
+
