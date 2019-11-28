@@ -26,7 +26,7 @@ That's where the name of the paper comes from, we are basically studying how tec
 
 ### Who wrote the paper? 
 
-This paper was a collaboration between my thesis supervisor [Pedro Parraguez](), [Stanko Škec]() and [Anja Maier]().
+This paper was a collaboration between my thesis supervisor [Pedro Parraguez](https://www.parraguezr.net/), [Stanko Škec](https://www.dtu.dk/english/service/phonebook/person?id=122454&tab=2&qt=dtupublicationquery) and [Anja Maier](https://www.dtu.dk/english/service/phonebook/person?id=59683&tab=1).
 
 All from the Management Department of the Technical University of Denmark - DTU. 
 
