@@ -15,7 +15,11 @@ Why does that matter? Well, a couple of things first..
 
 This paper basically studies ways of looking at research papers as data(meta, I know!). By taking words mentioned in the paper, its authors, the location where it was written, and more metadata, we can build a network of research on a particular topic. 
 
-Here is a rough example on how we build a matrix of similarity between years, by looking at the terms used in each year, and seeing if they have a relationship with terms used in other years.
+Here is a rough example on how we build a matrix of similarity between years: we look at the research terms used in each year, and we see if they have also been used in years after. If they have, then those years must be similar.
+
+Now that you have the gist of it, what we actually do is that we look at the evolution of combination of terms ("corn" + "hydrolysis" for example) throughout the years. By analyzing this evolution, we can deduce where research is going - and probably predict it too!
+
+ 
 <br>
 <center>
 <img src="/assets/img/paper/method.png" alt="JupyterLab" style="width:90%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
@@ -34,7 +38,7 @@ All from the [Management Department](https://www.man.dtu.dk/) of the [Technical 
 
 ### Where can I find it? 
 
-You can find it on [Elsevier](https://www.sciencedirect.com/science/article/pii/S004016251930006X#!) 
+You can find it on [Elsevier](https://www.sciencedirect.com/science/article/pii/S004016251930006X#!).
 
 ### Why isn't it open access? 
 
@@ -43,5 +47,3 @@ Long story short, it was out of my control. I was only a collaborator in this re
 [wink 😉](https://duarteocarmo.com/assets/docs/quantifying-tech-change.pdf)
 
 You can find out more about this topic by diving deeper into [my thesis](https://duarteoc.gitbook.io/technological-capabilities/).
-
-
