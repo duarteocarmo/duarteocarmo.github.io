@@ -8,7 +8,7 @@ My name is Duarte, I'm an engineer from Lisbon ☀️ but currently living in Co
 
 I have studied in the [Superior Technical Institute of Lisbon](https://tecnico.ulisboa.pt/en/), in the [Beijing Institute of Technology](http://english.bit.edu.cn/), and in the [Technical University of Denmark](https://www.dtu.dk/english). 
 
-Currently, I'm a digital consultant at [Jabra](https://jabra.com), where I help build the best headphones in the world. Here, I'm involved with a lot of different areas of the business: product management, automation, business development, strategy, data science, and software. 
+Currently, I'm a digital consultant/resident hacker at [Jabra](https://jabra.com), where I help build the best headphones in the world. Here, I'm involved with a lot of different areas: product management, strategy, data science, experimentation, and artificial intelligence.  
 
 In the past, I've worked for the [WYGroup](https://www.wygroup.net/), [Bliss Applications](https://www.blissapplications.com/) and [OnLiquid](https://onliquid.com/). 
 
