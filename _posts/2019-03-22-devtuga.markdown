@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating devtuga.pt"
+title: "Creating devtuga"
 categories: misc
 ---
 
