@@ -36,6 +36,7 @@ Here's the code:<a name="code"></a>
 # files for my personal github repo. Because other
 # software was making me pay for it.
 # Use it, and abuse it.
+# source: https://github.com/duarteocarmo/my-personal-zen/blob/master/highlight_parser.py
 import re
 import pathlib
 
