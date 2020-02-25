@@ -5,7 +5,7 @@ categories: misc
 
 ---
 
-**tl;dr:** *use [this script](#code) to build a [GitHub Repo](https://github.com/duarteocarmo/my-personal-zen) where you store all the highlights from your kindle books in an organized way.*
+**tl;dr:** *use [this script](#code) to build a [GitHub Repo like this one](https://github.com/duarteocarmo/my-personal-zen) where you store all the highlights from your kindle books in an organized way.*
 
 ### Kindle sucks, kindle is great
 
