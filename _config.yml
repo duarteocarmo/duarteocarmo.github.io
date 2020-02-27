@@ -23,6 +23,7 @@ long_description: >- # this means to ignore newlines until "baseurl:"
   Previously at Bliss Applications, WYGroup. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://duarteocarmo.com" # the base hostname & protocol for your site, e.g. http://example.com
+title_image: "https://duarteocarmo.com/assets/img/doc.gif"
 
 # SEO
 logo: /assets/img/doc-01.png
