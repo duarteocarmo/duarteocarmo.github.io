@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: duarte o.carmo
+name: duarte o.carmo
 email: me@duarteocarmo.com
 description: My personal website
 long_description: >- # this means to ignore newlines until "baseurl:"

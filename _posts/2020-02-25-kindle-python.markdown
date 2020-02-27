@@ -2,6 +2,8 @@
 layout: post
 title: "Managing kindle highlights with Python and GitHub"
 categories: misc
+name: "Managing kindle highlights with Python and GitHub"
+image: https://upload.wikimedia.org/wikipedia/en/1/15/Campbell_library.jpg
 
 ---
 
