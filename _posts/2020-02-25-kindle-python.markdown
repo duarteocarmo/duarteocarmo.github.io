@@ -29,17 +29,11 @@ In the [books](https://github.com/duarteocarmo/my-personal-zen/tree/master/books
 
 To make this happen, I created a small python [script](https://github.com/duarteocarmo/my-personal-zen/blob/master/highlight_parser.py) that parses a `My Clippings.txt` file every time I connect my Kindle to my computer. And then its just a matter of moving these files to a repo and pushing it to GitHub. 
 
-Here's the code:<a name="code"></a> 
+Here's a walk through of the code that you can also find in full [here](https://github.com/duarteocarmo/my-personal-zen/blob/master/highlight_parser.py):<a name="code"></a> 
+
+We start by creating a `Book` class:
 
 ```python
-# A script to parse kindle higlights into markdown
-# files for my personal github repo. Because other
-# software was making me pay for it.
-# Use it, and abuse it.
-# source: https://github.com/duarteocarmo/my-personal-zen/blob/master/highlight_parser.py
-import re
-import pathlib
-
 class Book:
     book_list = set()
 
@@ -72,8 +66,10 @@ class Book:
                 file.write("\n")
 
             file.close()
+```
+After that, we create a `Highlight` class:
 
-
+```python
 class Highlight:
     total_highlights = 0
 
@@ -103,6 +99,10 @@ class Highlight:
         return None, None, None
 
 
+```
+
+Once those are created, just run the following script to output the markdown files:
+```python
 current_directory = pathlib.Path.cwd()
 parsed_books = list(
     set(file.stem for file in current_directory.glob("**/*.md"))
@@ -134,6 +134,6 @@ for book in library:
             book.write_book(format="markdown")
         else:
             print(f"{book.title} is already written.")
-
 ```
 
+Now you are all set!
