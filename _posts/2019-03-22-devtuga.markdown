@@ -94,7 +94,7 @@ For this process, I had to create two containers. One for my flask application, 
 But how do you do that? Well, the simple principle is that you create something called a `Dockerfile` which is a set of instrunctions docker follows, in order to create a container. Here is an example: 
 
 
-```Docker
+```docker
 FROM python:3.7.1-alpine
 
 COPY requirements.txt requirements.txt 
