@@ -34,7 +34,7 @@ I believe these are a very good bank for your buck. And can certainly vouch for 
 <br/>
 <br/>
 <center>
-<img src="/assets/img/wfh/setup.png" alt="Setup" style="width:70%;border-radius: 2px;">
+<img src="/assets/img/wfh/setup.png" alt="Setup" style="width:90%;border-radius: 2px;">
 </center>
 <br/>
 
