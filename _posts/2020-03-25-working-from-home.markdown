@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to work form home"
+title: "How to work from home"
 categories: misc
 ---
 
