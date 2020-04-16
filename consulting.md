@@ -35,7 +35,7 @@ Services:
 
 ### Data Science and software
 
-I have contributed to popular open source projects such as [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/#) and [PaperMill](https://papermill.readthedocs.io/en/latest/#). I often [blog about it](https://duarteocarmo.com/) too. I have developped projects in datascience for [the European Union](https://duarteoc.gitbook.io/technological-capabilities/) that resulted in a [published paper](https://www.sciencedirect.com/science/article/pii/S004016251930006X#!).
+I have contributed to popular open source projects such as [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/#) and [PaperMill](https://papermill.readthedocs.io/en/latest/#). I often [blog about it](https://duarteocarmo.com/) too. I have developped projects in datascience for [the European Union](https://thesis.duarteocarmo.com/) that resulted in a [published paper](https://www.sciencedirect.com/science/article/pii/S004016251930006X#!).
 
 Services:
 - Data mining and processing
