@@ -1,4 +1,4 @@
-## My personal website
+## My (old) personal website
 
 **This blog is retired, for my new blog, visit [the new repo.](https://github.com/duarteocarmo/duarteocarmo.com)**
 
